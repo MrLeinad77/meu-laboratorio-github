@@ -27,3 +27,8 @@ Neste repositório estou aprendendo:
 - Commits
 - Branches
 - Pull Requests
+
+- ## Meu objetivo
+
+Aprender ferramentas de tecnologia e desenvolver projetos
+práticos para automatizar processos.
