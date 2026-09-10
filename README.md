@@ -16,3 +16,14 @@ Meu primeiro repositório para aprender Git e GitHub.
 ## Status
 
 Em desenvolvimento.
+
+## O que estou aprendendo
+
+Neste repositório estou aprendendo:
+
+- Git
+- GitHub
+- Repositórios
+- Commits
+- Branches
+- Pull Requests
